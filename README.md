@@ -1,1 +1,1 @@
-# Constructing-School-Timetables-Using-Local-Beam-Search
+Constructing school timetables using local beam search
